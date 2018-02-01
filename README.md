@@ -1,2 +1,5 @@
 # twitter_metrics
-Gather twitter metrics for a URL using BeautifulSoup 
+Gather twitter metrics using BeautifulSoup 
+
+This simple python code gathers data of number of likes, retweets, comments and the time stamp of a tweet. 
+
