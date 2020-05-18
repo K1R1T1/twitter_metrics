@@ -10,5 +10,6 @@ This package can be installed by cloning the repo. As of version 0.0.1, the pack
 
 Usage:
 This package is intended to be used as a Python module inside your other Tweet-related code. An example Python program (after installing the package) would be:
-	python tweet_metrics https://twitter.com/BarackObama/status/952914779458424832
+
+```python tweet_metrics https://twitter.com/BarackObama/status/952914779458424832```
 
